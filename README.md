@@ -14,4 +14,4 @@ What I mean by that is with common cathode rgb leds not the standard leds with 2
 
 Why did you make this program even though you could use a calculator
 
-I decided to make this program because I thought it would be fun and im learning Programming. It also saves me from having to type out the equation in the calculator. Feel free to modify the source code to your own likings make it do stupid things I dont care just have fun changing my program and feel free to show me your modifed version of my program if you like. :)
+I decided to make this program because I thought it would be fun and im learning Programming. It also saves me from having to type out the equation in the calculator. Feel free to modify the source code to your own likings make it do stupid things I dont care just have fun changing my program and feel free to show me your modifed version of my program if you like. :) Program is in the CCTCAv1.0 folder and the source code.
